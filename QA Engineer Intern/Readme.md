@@ -22,7 +22,7 @@
 
 # 3.Jelaskan apa itu Product Requirement Document (PRD) dan hubungannya dengan role QA!
 
-- Bertujuan memberikan panduan yang jelas kepada tim pengembangan tentang apa yang harus dilakukan
+- product requirement document adalah dokumen panduan pengembangan produk untuk mendefinisikan tujuan, fitur, dan apa saja yang harus disertakan dalam suatu produk Bertujuan memberikan panduan yang jelas kepada tim pengembangan tentang apa yang harus dilakukan
 
 - QA memanfaatkan PRD sebagai panduan untuk merancang dan melakukan pengujian produk agar membantu memastikan kualitas produk yang dikembangkan untuk memenuhi semua  persyaratan yang tercantum dalam PRD, juga dapat digunakan sebagai panduan untuk membuat test plan dan test case.
 
